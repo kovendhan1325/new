@@ -1,0 +1,16 @@
+.img{
+  width: 150px;
+  height: 150px;
+  border-radius:50%;
+  
+ 
+}
+ 
+.profile{
+  display: flex;
+  algin-item:center;
+  justify-content:center;
+  height:70vh;
+  border : 5px solid black;
+  
+}
